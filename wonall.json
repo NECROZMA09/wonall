@@ -1,6 +1,10 @@
 {
-  "totalDevices": 0,
-  "verifiedSessions": [],
+  "totalDevices": 1,
+  "verifiedSessions": [
+    "2230596A-EA41-3369-9385-073355D58085"
+  ],
   "source": "DiscordBot",
-  "authorizedHardwareIds": []
+  "authorizedHardwareIds": [
+    "2230596A-EA41-3369-9385-073355D58085"
+  ]
 }
